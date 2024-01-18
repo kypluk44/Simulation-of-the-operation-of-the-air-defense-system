@@ -3,6 +3,7 @@ import pygame
 from math import sqrt, atan, cos, sin, pi
 import os
 
+
 max_distance = 1000
 dulo = 80
 cold = 10
